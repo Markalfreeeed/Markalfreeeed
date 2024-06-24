@@ -1,4 +1,4 @@
-Hi there, I'm [Your Name]! 👋
+Hi there, I'm Mark Alfred Cadeon! 👋
 Welcome to my GitHub profile! I am a passionate and driven Computer Engineering student currently in my final year of studies. I am deeply interested in software development, embedded systems, and the exciting intersections of hardware and software.
 
 About Me
